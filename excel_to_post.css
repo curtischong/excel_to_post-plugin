@@ -1,0 +1,32 @@
+*{
+	font-family: Verdana;
+}
+#submit-file{
+	position: absolute;
+	left: 500px;
+	height: 50px;
+	width: 500px;
+	background-color: yellow;
+}
+#createpost{
+	position: absolute;
+	top: 500px;
+	left: 300px;
+	width: 800px;
+	height: 50px;
+	display: none;
+	text-align: center;
+	border: 1px solid black;
+	color: black;
+	cursor: pointer;
+}
+#instructions{
+	position: absolute;
+	top: 100px;
+	left: 300px;
+}
+#example{
+	position: absolute;
+	top: 100px;
+	left: 30px;
+}
